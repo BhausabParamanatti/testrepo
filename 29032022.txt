@@ -1,0 +1,338 @@
+3.
+
+RDP
+
+4.
+
+Software Vulnerabilities
+
+5.
+
+Malicious Links
+
+6.
+
+A  full system backup
+
+7.
+
+WannaCry
+
+8.
+
+False
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Strategy Pattern
+Adapter Pattern
+
+eview the lecture on Intro to Patterns and Observer Pattern
+See the Pattern Lectures
+Review the Design Pattern lectures
+See the Quality Metrics lectures
+
+1.
+Question 1
+The logical (intended) dependency is that observer depends on subject.
+
+TRUE
+
+3.
+
+
+Observer pattern
+
+4.
+
+Strategy Pattern
+
+5.
+Question 5
+Consider the statement "In the Strategy pattern, the context should hold references to the ConcreteStrategies."
+
+Under what circumstances would this be true? Select all that apply.
+
+
+--When the context is tasked with deciding which strategy to use
+
+
+6.
+Question 6
+In the Observer pattern, one difficulty is that the Subject cannot pass an instance of itself to the Observer being updated, due to circular dependencies.
+
+FALSE
+
+7.
+Question 7
+Once a class has been had an Adapter pattern solution applied, it cannot be adapted again.
+
+FALSE
+
+8.
+Question 8
+Factories are no longer useful when you apply the Strategy Pattern to a family of algorithms.
+
+FALSE
+
+9.
+Question 9
+Observer is an implementation of the Dependency Inversion principle.
+
+TRUE
+
+10.
+Question 10
+Strategy Pattern helps maintain the Open/Closed Principle.
+
+TRUE
+
+13.
+
+0.5
+
+16.
+
+3
+
+17.
+
+4
+
+18.
+
+4
+
+
+=====================
+
+
+Our DevOps software development team consists of 5 developers, 3 business engineers, a scrum master and product owner. We develop software for managing deposits, deposit positions, risk scenarios, etc. We develop the application and are also responsible for its operation in the production environment. We are agile (SAFe) and apply the common scrum ceremonies.
+
+
+1. From my point view, our team has the optimal size for the work we have to do. The 3 business
+engineers can prepare enough stories for development. With the 5 developers we have a good burn rate and don't get in each other's way in the codebase
+2. Our diversity is low, we are all men and all are between 30 and years old. We are all Indian and work in development or business engineering. I think we could achieve more with diversity and bring our applicatio to a new level.
+3. We all work together in one office and have a mixed model for the rewards. This promotes collaboration, our decision making paths are short and the rewards contribute to good motivation.
+4. We have defined roles and a team charter. So, everything is explicitly defined and the required roles are distributed.
+
+1. More diversiry in our team: I think with a higher diversity we could improve our application qualitatively as well as innovatively.I think here diversity in terms of gender and age, youner developers help us bring new impulses, teechnologies and ideas. Women would be a valuable sparing partner in workshops and in collection of ideas.
+2. Informal roles: Analyzing the informal roles on our team could give us a better understanding of how we work together, and these roles could be considered when makingn changes to team staffing.
+
+3. We had a conflict in the team between two people. The chemistry between them was simply not right,it came to a point where people were shouting. Unfortunatley, the conflict was so far advanced that only a personnel change was possible.
+4. Our team is located in a safe psychological environment. The open, direct and transparent communication contributes to the learning culture. In addition, we have found an optimum error culture for us i the team, which works pewrfectly.
+
+1. Coordination: We should do more planning meetings at periodic times. This could help us not to loose sight of our goals and wold allow us to re-prioritize in the short term.
+2. Learning: Learning together would move our team forward in terms of technology, but also as a team. I could imagine new technoogies and tools in development. A joint conference visit would also be extremely interesting and appropriate. Thus we could also ensure our further deveopemnt of the application.
+
+1. It is very important to understand the team, including how it functions, especially informally. It was also very intersting to review certain situations and times during the analysis and to look at them differently from these aspects.
+2. We will implement the strategies described above; with mutual trust and respect and the liberty to share ideas and embrace innovations will take take us forward.
+
+ 
+
+
+
+
+
+Issued on: 22 MAR 2022 | Issued by: Coursera
+Verify: https://www.credly.com/go/Cw8azRZd
+
+
+Issued on: 23 MAR 2022 | Issued by: Coursera
+Verify: https://www.credly.com/go/0089uq3n
+
+
+
+
+
+===========
+
+1. 
+Availability
+2.
+Black Hats
+3.
+People
+4.
+Security Policy
+5.
+IT Governance process
+6.
+Integrity
+7.
+1
+8.
+Chain of Custody
+9.
+The Information Technology Infrastructure Library (ITIL) framework.
+10.
+Incident Management
+11.
+Chief Information Security Officer (CISO)
+12.
+The CIA Triad.
+13.
+Trudy deletes the message without reading or forwarding it.
+14.
+Something you have.
+Something you are.
+Something you know.
+15.
+Role Based Access Control (RBAC)
+16
+??
+17.
+??
+18.
+A hypervisor operates between the hardware and the operating system.
+19.
+Private cloud
+20.
+Malicious Insider
+21.
+Laptop
+Cellphone
+Personal Computer
+22.
+Important 
+critical
+23.
+USer mode
+24.
+Local accounts
+25.
+All of the above
+26.
+Symmetric key encryption will be weakened, and Public Key encryption will be broken.
+27.
+While at rest, in transit and in use.
+28.
+To decipher stolen passwords by looking up a hashed password and matching it to a string of clear text.
+29.
+??
+30.
+The organization will need as many registered IP addresses as it has computers that need Internet access.
+31.
+The computer's MAC address.
+32.
+1000
+33.
+Class A
+34.
+DNS
+35.
+Structured data
+36.
+Attempts to create a list of user ID credentials using an SQL query rather than your organization's identity management application.
+37.
+None of the above.
+38.
+Discovery
+Exploitation or Attack
+39.
+Escalating Privileges
+40.
+??
+41.
+??
+42.
+To preserve the integrity of the original data.
+43.
+Login sessions
+Running processes
+Slack space
+44.
+Backups
+Automation
+Testing
+45.
+??
+46.
+Python is an Open Source project and distributed free of charge.
+47.
+Use a hash "#" character. Everything to the right of that character on the same line will be treated as a comment.
+48.
+United States
+49.
+Perform forensic investigation.
+Gather full situational awareness through advanced security analytics.
+50.
+Android
+51.
+??
+52.
+Confidentiality
+53.
+??
+54.
+10
+55.
+Use systematic analysis of the threats and controls.
+??
+56.
+Root Cause Analysis
+57.
+Gives the technology perspectives in detail.
+58.
+May be product or vendor aware.
+Specifies the technical components to implement a function.
+Add context of the platforms and environments.
+59.
+??
+statistical correlation engine based
+60.
+When 3 events are found with matching properties within a 10 second period, they are coalesced into a single event.
+61.
+??
+62.
+Installation
+Actions on Objectives
+Command & Control
+63.
+Establish policies and procedures regarding incident-related information sharing.
+Develop an incident response plan based on the incident response policy.
+Establish a formal incident response capability.
+64.
+Post-Incident Activity
+65.
+There is a request to click a link and provide personal "account" details.
+It is generically address, for example, to "Dear Customer".
+It is not from someone you know or do business with.
+66.
+False
+67.
+True
+68.
+All of the above
+69.
+Locker
+70.
+Anti-virus software.
+
+
+
+
+
+
+Penetration Testing, Incident Response and Forensics
+
+Your IBM Cloud Feature Code:
+
+630640ca580ebba25840fb433f8e32b1
